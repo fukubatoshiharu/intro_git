@@ -4,3 +4,4 @@ Gitの練習をしていきます
 16:42 2024/01/28
 git rm
 git status
+git diff
