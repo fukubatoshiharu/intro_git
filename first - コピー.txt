@@ -6,7 +6,4 @@ git rm
 git status
 git diff
 20:55 2024/08/1820:55 2024/08/18
->>>>>>> remotes/origin/release/PRD
-=======
->>>>>>> remotes/origin/release/PRD
 aaaaaaaaaa
